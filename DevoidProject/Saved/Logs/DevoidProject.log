@@ -1776,3 +1776,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-02.50.23:107][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/DevoidContent/Assets/Bedroom_assets/Room/Window/Window_Clear/Window_OcclusionRoughnessMetallic]
 [2019.10.23-02.50.23:211][540]LogSavePackage: Moving 'F:/Second_year/GD2J01 People and Games/Video game/Project/Devoid_UE4.23.0/DevoidProject/Saved/Window_OcclusionRoughnessMetalliCA2F2EA1451264120AAB51861D9494F2.tmp' to 'F:/Second_year/GD2J01 People and Games/Video game/Project/Devoid_UE4.23.0/DevoidProject/Saved/Autosaves/Game/DevoidContent/Assets/Bedroom_assets/Room/Window/Window_Clear/Window_OcclusionRoughnessMetallic_Auto1.uasset'
 [2019.10.23-02.50.23:212][540]LogFileHelpers: Auto-saving content packages took 0.576
+[2019.10.23-02.51.45:800][ 59]LogSlate: Window 'Message' being destroyed
+[2019.10.23-02.51.46:259][ 59]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.10.23-02.51.46:370][ 59]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.10.23-02.51.46:370][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2019.10.23-02.51.46:370][ 59]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.10.23-02.51.46:370][ 59]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2019.10.23-02.51.46:390][ 59]LogMaterial: Display: Missing cached shader map for material Window_Clear, compiling. 
+[2019.10.23-02.51.46:444][ 59]LogMaterial: Display: Missing cached shader map for material Window_Clear, compiling. 
+[2019.10.23-02.51.46:531][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.10.23-02.51.46:551][ 59]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
